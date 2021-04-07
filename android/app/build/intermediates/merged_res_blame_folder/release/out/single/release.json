@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img16.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img16.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img6.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img6.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img3.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img3.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img13.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img13.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_cart.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_cart.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img15.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img15.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img10.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img10.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_backarrow.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_backarrow.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_close.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_close.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img7.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img7.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img4.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img4.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img14.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img14.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img8.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img8.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img11.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img11.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img1.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img1.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_india_1.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_india_1.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img2.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img2.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img9.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img9.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img5.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img5.jpeg"
+    },
+    {
+        "merged": "/Users/bcm/Documents/Demo/Project/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_img12.jpeg.flat",
+        "source": "/Users/bcm/Documents/Demo/Project/android/app/build/generated/res/react/release/drawable-mdpi/assets_img12.jpeg"
+    }
+]
